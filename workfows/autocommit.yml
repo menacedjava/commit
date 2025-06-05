@@ -74,5 +74,5 @@ jobs:
           echo "All commits completed successfully!"
         shell: bash
         env:
-          USERNAME: ${{ secrets._menacedjava }}
-          EMAIL: ${{ secrets._menacedjava1 }}
+          USERNAME: ${{ secrets._MENACEDJAVA }}
+          EMAIL: ${{ secrets._MENACEDJAVA1}}
